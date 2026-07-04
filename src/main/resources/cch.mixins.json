@@ -1,0 +1,10 @@
+{"required": true,
+"package": "net.bry.cch.mixins",
+"compatibilityLevel":  "JAVA_17",
+"refmap":  "cch.refmap.json",
+"mixins": [
+  "AddCrashReportHeaderMixin"
+],
+"injectors": {
+  "defaultRequire": 1
+}}
