@@ -1,6 +1,6 @@
 # Valkyrien Skies "Don't Just Take It" License
 
-**Copyright (c) 2026,** BryBry154**. All rights reserved.**
+**Copyright (c) 2026,** BryBry154 **All rights reserved.**
 
 This Software is made available under the terms of this License. By
 downloading, installing, using, copying, or interacting with the Software in
